@@ -15,7 +15,11 @@ redirect_from:
 
 ## ⌨️ Industry
 
-Most recently, I worked as an AI Researcher during an internship at Perceptronics Solutions. While there, 
+Most recently, I worked as an AI Researcher during an internship at Perceptronics Solutions. While there, I researched ML solutions to a problem with a positioning system and ultimately implemented a NARX neural network in Tensorflow based on a research paper to improve the system's accuracy.
+
+Before that, I worked as a software/DDR5 memory engineer during and internship at Intel. There, I worked on validating server-grade DDR5 DRAM as efficiently as possible. After researching bottlenecks in the pipeline, I implemented a genetic algorithm in Python to obtain optimal duty cycle adjust (DCA) settings faster.
+
+
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
