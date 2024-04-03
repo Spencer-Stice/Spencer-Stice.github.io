@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portrait_updated.jpg"
   name             : "Spencer Stice"
   pronouns         : # example: "she/her"  
   bio              : "Computer engineering and math at UCLA"
