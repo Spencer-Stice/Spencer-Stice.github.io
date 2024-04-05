@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "EEG Data Classification"
+excerpt: "Classifying EEG Data via Convolutional and Recurrent Neural Networks"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The goal of this project is to create a machine learning model that accurately classifies electroencephalograph (EEG) data into four different classes based on motor imaginary tasks: moving the left hand, right hand, both feet, or tongue. Our investigation analyzes and compares the performance of CNN, RNN, CNN+LSTM, and ResNet architectures as well as the pre-processing and hyperparameter tuning techniques we used. After tuning, we achieved our highest test accuracy of 69.3% on all subjects and 80.0% on subject #3 using our CNN+LSTM model.
+
