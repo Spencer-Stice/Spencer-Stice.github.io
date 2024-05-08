@@ -13,6 +13,10 @@ redirect_from:
 
 # Selected Experience
 
+## 👨‍💻 Academic Research
+
+I'm currently working in Prof. Baharan Mirzasoleiman's Large Scale Machine Learning Group (BigML) Lab as an undergrad student researcher. I'm researching techniques to prevent catastrophic forgetting (CF) while still learning from new data (a different distribution) in LLMs during fine tuning. Using LLM guardrails as a metric for CF.
+
 ## ⌨️ Industry
 
 <p align="center">
@@ -29,6 +33,6 @@ Before that, I worked as a software/DDR5 memory engineer during and internship a
 
 ## 👨‍💻 Courses
 
-I have spent most of my undergrad focusing on AI/ML classes. Specifically, I've taken courses in computer vision, NLP, deep learning, and AI theory (propositional and first order logic, Bayesian statistics, etc.). I bring my math background to these classes, most notably through linear-algebra, graph theory, and game theory.
+I have spent most of my undergrad focusing on AI/ML classes. Specifically, I've taken courses in computer vision, NLP, deep learning, and AI theory (propositional and first order logic, Bayesian statistics, etc.). I bring my math background to these classes, most notably through linear algebra, graph theory, and game theory.
 
 Additionally, I've taken courses in SETI and cryptography/blockchain.
