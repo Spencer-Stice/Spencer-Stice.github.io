@@ -24,11 +24,11 @@ author:
   avatar           : "portrait_updated_cropped3.jpg"
   name             : "Spencer Stice"
   pronouns         : # example: "she/her"  
-  bio              : "Computer engineering and math at UCLA"
+  bio              : "MS Computer Science at UCLA '25"
   location         : "Los Angeles, CA"
-  employer         : "Prev Intel and Perceptronics"
+  employer         : "UCLA BigML Lab, Prev Intel and Perceptronics"
   uri              : # URL
-  email            : "smstice@ucla.edu" 
+  email            : "smstice@cs.ucla.edu" 
 
   # # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
