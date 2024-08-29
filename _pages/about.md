@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I'm a computer science master's student at UCLA. I'm looking for full time roles following gradutaion as well as applying to PhD programs.
+🎓 I'm a computer science master's student at UCLA. I'm looking for full time roles following gradutaion.
 
 🔬 I'm primarily interested in computer architecture and AI/ML, although I have an interest in blockchain as well.
 
