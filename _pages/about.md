@@ -34,7 +34,7 @@ Before that, I worked as a software/DDR5 memory engineer during an internship at
 
 ## 👨‍💻 Courses
 
-As a graduate student, I'm focusing on computer architecture and AI/ML. Specifically, I'm taking classes related to advanced architecture (GPU microarchitecture, advanced memory hierarchy, branch prediction, simulation based evaluation), ML (distributed training, quantization, pruning), and others like quantum programming.
+As a graduate student, I'm focusing on computer architecture and AI/ML. Specifically, I'm taking classes related to advanced architecture (SOTA CPU design, advanced memory hierarchy, branch prediction, etc.), ML (data selection, distributed training, quantization, pruning), and others like quantum programming.
 
 During undergrad at UCLA, I studied computer engineering and math. In addition to the basics, I spent most of my undergrad focusing on AI/ML classes. Specifically, I've taken courses in computer vision, NLP, deep learning, and AI theory (propositional and first order logic, Bayesian statistics, etc.). I bring my math background to these classes, most notably through game theory and graph theory.
 
