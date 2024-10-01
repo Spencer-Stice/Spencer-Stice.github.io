@@ -11,6 +11,8 @@ redirect_from:
 
 🔬 I'm primarily interested in computer architecture and AI/ML, although I have an interest in blockchain as well.
 
+👨‍🏫 I'm the TA for ENGR1: Internet of Things. This course covers embedded ML, sensors, DSP, etc..
+
 # Selected Experience
 
 ## 👨‍💻 Academic Research
