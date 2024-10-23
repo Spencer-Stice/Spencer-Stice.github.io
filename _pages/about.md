@@ -17,7 +17,7 @@ redirect_from:
 
 ## 👨‍💻 Academic Research
 
-I'm currently working in Prof. Baharan Mirzasoleiman's Large Scale Machine Learning Group (BigML) Lab as a graduate researcher. Here, I research security for large models. Specifically, I'm researching techniques to counteract fine tuning attacks on text based models (LLMs) and technqiues to counter SOTA jailbreaking methods for multimodal models (text and image).
+I'm currently working in Prof. Baharan Mirzasoleiman's Large Scale Machine Learning Group (BigML) Lab as a graduate researcher. Here, I research security for large models. Specifically, I'm researching techniques to counteract fine tuning attacks on text based models (LLMs) and techniques to counter SOTA jailbreaking methods for multimodal models (text and image).
 
 ## ⌨️ Industry
 
